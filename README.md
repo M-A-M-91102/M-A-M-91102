@@ -312,7 +312,7 @@ Implemented computational algorithms to identify regulatory motifs in genomic se
 
 "Bridging wet-lab biology with computational tools and data science for translational medicine."
 
-<a href="https://itzmuhammadabdullahmirza.netlify.app/" target="_blank">
+<a href="https://mabdullah-mirza-pk.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/MirzaOS-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="MirzaOS Portfolio" />
 </a>
 
