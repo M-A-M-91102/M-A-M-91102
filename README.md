@@ -264,19 +264,19 @@ Implemented computational algorithms to identify regulatory motifs in genomic se
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30"> GitHub Analytics
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=M-A-M-91102&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=6366f1&icon_color=06b6d4&text_color=f0f0f5" alt="GitHub Stats" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-A-M-91102&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=6366f1&text_color=f0f0f5" alt="Top Languages" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=mabdullah-mirza-pk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=6366f1&icon_color=06b6d4&text_color=f0f0f5" alt="GitHub Stats" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabdullah-mirza-pk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=6366f1&text_color=f0f0f5" alt="Top Languages" height="180" />
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=M-A-M-91102&theme=tokyonight&hide_border=true&background=0a0a0f&stroke=6366f1&ring=06b6d4&fire=f59e0b&currStreakLabel=6366f1" alt="GitHub Streak" width="80%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mabdullah-mirza-pk&theme=tokyonight&hide_border=true&background=0a0a0f&stroke=6366f1&ring=06b6d4&fire=f59e0b&currStreakLabel=6366f1" alt="GitHub Streak" width="80%" />
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=M-A-M-91102&theme=tokyo-night&hide_border=true&bg_color=0a0a0f&color=6366f1&line=06b6d4&point=f59e0b" alt="Activity Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mabdullah-mirza-pk&theme=tokyo-night&hide_border=true&bg_color=0a0a0f&color=6366f1&line=06b6d4&point=f59e0b" alt="Activity Graph" width="100%" />
 </div>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="30"> GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=M-A-M-91102&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mabdullah-mirza-pk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" width="100%" />
 </div>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="30"> Connect With Me
@@ -284,24 +284,22 @@ Implemented computational algorithms to identify regulatory motifs in genomic se
 <a href="https://linkedin.com/in/itsmuhammadabdullahmirza" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://github.com/M-A-M-91102" target="_blank">
+<a href="https://github.com/mabdullah-mirza-pk" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="mailto:muhammadabdullahmirza91102@gmail.com" target="_blank">
+<a href="mailto:mabdullah.mirza.pk@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-<a href="https://facebook.com/itsmuhammadabdullahmirza" target="_blank">
+<a href="https://facebook.com/mabdullah.mirza.pk" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
-<a href="https://instagram.com/itsmuhammadabdullahmirza" target="_blank">
+<a href="https://instagram.com/mabdullah.mirza.pk" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 
 
 <table>
   <tr>
-    <td align="center" width="33%">📧<br><b>Email</b><br><sub>muhammadabdullahmirza91102@gmail.com</sub></td>
-    <td align="center" width="33%">📱<br><b>Phone</b><br><sub>+92 340 7438794</sub></td>
     <td align="center" width="33%">📍<br><b>Location</b><br><sub>Sargodha, Punjab, Pakistan</sub></td>
   </tr>
 </table>
@@ -314,8 +312,8 @@ Implemented computational algorithms to identify regulatory motifs in genomic se
 
 "Bridging wet-lab biology with computational tools and data science for translational medicine."
 
-<a href="https://M-A-M-91102.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/MirzaOS-6366f1?style=for-the-badge&logo=windows&logoColor=white" alt="MirzaOS Portfolio" />
+<a href="https://itzmuhammadabdullahmirza.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/MirzaOS-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="MirzaOS Portfolio" />
 </a>
 
 
