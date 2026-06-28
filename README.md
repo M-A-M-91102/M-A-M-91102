@@ -10,14 +10,14 @@
 <!-- Status Badges -->
 <img src="https://komarev.com/ghpvc/?username=muhammadabdullahmirza91102&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile Views" />
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-10b981?style=flat-square&logo=openai&logoColor=white" alt="Open to Work" />
-<img src="https://img.shields.io/badge/CGPA-3.76%2F4.0-f59e0b?style=flat-square&logo=academia&logoColor=white" alt="CGPA" />
+<img src="https://img.shields.io/badge/CGPA-3.73%2F4.0-f59e0b?style=flat-square&logo=academia&logoColor=white" alt="CGPA" />
 <img src="https://img.shields.io/badge/Certs-15%2B-06b6d4?style=flat-square&logo=coursera&logoColor=white" alt="Certifications" />
 </div>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Scientist%20Medium%20Skin%20Tone.png" width="30"> About Me
 "Detail-oriented BS Biotechnology student with strong theoretical grounding in molecular biology, biochemistry, genomics, and bioinformatics."
 diff
-+ CGPA: 3.76 / 4.0 @ University of Sargodha
++ CGPA: 3.73 / 4.0 @ University of Sargodha
 + Certified in mRNA therapeutics (Moderna), Cancer Biology (Johns Hopkins), Computational Biology (UC San Diego)
 + Proficient in sequence analysis, NCBI database mining, motif finding, R programming
 + Passionate about translational medicine, vaccine development, and computational genomics
@@ -31,7 +31,7 @@ diff
       <b>Certifications</b>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/3.76%2F4.0-06b6d4?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="3.76" /><br>
+      <img src="https://img.shields.io/badge/3.73%2F4.0-06b6d4?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="3.73" /><br>
       <b>CGPA</b>
     </td>
     <td align="center" width="25%">
@@ -96,17 +96,22 @@ diff
   <tr>
     <td width="60%"><b>BS Biotechnology</b><br>University of Sargodha</td>
     <td width="20%">2024 — 2028 (Exp.)</td>
-    <td width="20%"><b>CGPA 3.76 / 4.0</b></td>
+    <td width="20%"><b>CGPA 3.73 / 4.0</b></td>
   </tr>
   <tr>
     <td><b>FSc Pre-Medical</b><br>Superior College, Sargodha</td>
     <td>2021 — 2023</td>
-    <td>—</td>
+    <td>"A Grade"</td>
   </tr>
   <tr>
     <td><b>Matriculation (Bio-Science)</b><br>Govt. Model High School No.1, Sargodha</td>
-    <td>2018 — 2021</td>
-    <td>—</td>
+    <td>2019 — 2021</td>
+    <td>"A+ Grade"</td>
+  </tr>
+    <tr>
+    <td><b>8th Standard Board Exams (Science)</b><br>Govt. Model High School No.1, Sargodha</td>
+    <td>2018 — 2019</td>
+    <td>"423/500 - A+ Grade"</td>
   </tr>
   <tr>
     <td><b>Elementary Education</b><br>The Message Empirical School, Sargodha</td>
